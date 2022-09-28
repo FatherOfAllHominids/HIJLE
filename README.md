@@ -1,3 +1,1 @@
 # HIJLE
-
-Group Project; SportsSite
